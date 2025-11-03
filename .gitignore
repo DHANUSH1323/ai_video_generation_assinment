@@ -1,0 +1,23 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+*.log*
+
+# Environment files
+.env
+.env.*
+
+# System / Editor files
+.DS_Store
+Thumbs.db
+
+ai-video-generator/build/
+ai-video-generator/.eslintcache
+ai-video-generator-backend/dist/
